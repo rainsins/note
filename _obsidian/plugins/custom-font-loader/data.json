@@ -1,0 +1,7 @@
+{
+  "font_folder": ".obsidian/fonts/",
+  "font": "FZFWZhuZiAOldMinchoM.TTF",
+  "force_mode": false,
+  "custom_css_mode": true,
+  "custom_css": ":root * {\n\t\t--font-default: consolas,FZFWZhuZiAOldMinchoM;\n\t\t--default-font:cambria,  FZFWZhuZiAOldMinchoM;\n\t\t--font-family-editor:cambria,  FZFWZhuZiAOldMinchoM;\n\t\t--font-monospace-default: cambria, FZFWZhuZiAOldMinchoM,\n\t\t--font-interface-override: cambria, FZFWZhuZiAOldMinchoM,\n\t\t--font-text-override: FZFWZhuZiAOldMinchoM,\n\t\t--font-monospace-override: FZFWZhuZiAOldMinchoM,\t\n\t}\n"
+}

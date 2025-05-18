@@ -1,0 +1,30 @@
+{
+  "interfaceNormalFont": {
+    "path": "FZFW ZhuZi A Old Mincho M",
+    "base64": ""
+  },
+  "interfaceBoldFont": {
+    "path": "FZFW ZhuZi A Old Mincho M",
+    "base64": ""
+  },
+  "interfaceItalicFont": {
+    "path": "FZFWZhuZiAOldMinchoL",
+    "base64": ""
+  },
+  "textNormalFont": {
+    "path": "FZFWZhuZiAOldMinchoM",
+    "base64": ""
+  },
+  "textBoldFont": {
+    "path": "FZFWZhuZiAOldMinchoB",
+    "base64": ""
+  },
+  "textItalicFont": {
+    "path": "FZFWZhuZiAOldMinchoL",
+    "base64": ""
+  },
+  "monospaceFont": {
+    "path": "",
+    "base64": ""
+  }
+}
